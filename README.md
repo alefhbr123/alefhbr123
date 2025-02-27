@@ -13,11 +13,6 @@
         <p><img width="100%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=alefhbr123&show_icons=true&locale=en&layout=compact&theme=dark" alt="alefhbr123" /></p>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alefhbr123&theme=dark" alt="alefhbr123" /></p>
-      </td>
-    </tr>
   </table>
 </div>
 <h2 align="left">Languages and Tools:</h2>
