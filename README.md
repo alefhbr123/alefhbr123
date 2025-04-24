@@ -1,7 +1,7 @@
 ## Hi👋, I'm Álefh Trindade Luz De Lima
 <p align="left">I am a Software Engineering student aiming to apply and improve technical skills in software development, gain practical experience and grow professionally in the technology area.</p>
 
-<h2 align="left">My status:</h2>
+<h2 align="left">🚀My status:</h2>
 
 <div align="center">
   <table>
@@ -15,7 +15,7 @@
     </tr>
   </table>
 </div>
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">⚙️Languages and Tools:</h2>
 <table align="center">
   <tr>
     <td>
@@ -45,4 +45,13 @@
 </table>
 
 </table>
+<h2 align="left">📫 Contact me:</h2>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/%C3%A1lefh-lima-1a6868348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:alefhlima123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
